@@ -1,0 +1,124 @@
+{
+    "shoes": [
+        {
+            "id": 1,
+            "name": "Adidass Falcon Shoes for men - 2021 Edition",
+            "price": "Rs 120.50",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197327637-25d6d8cb-c1de-4f9d-9a9c-27a8ad7c49f3.png",
+            "bgGradient": [
+                "#FE7831",
+                "#FFDEBE"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Nike Falcon Shoes for men - 2019 Edition",
+            "price": "Rs 160.99",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/196216268-9a2aecc3-50d0-470d-a039-6977c31742a9.png",
+            "bgGradient": [
+                "#02BE83",
+                "#B3F6DC"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Puma Falcon Shoes for men - 2022 Edition",
+            "price": "Rs 230.50",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197327638-887e8385-2e1a-4a6c-ad0f-dcbc87db5795.png",
+            "bgGradient": [
+                "#FF3C78",
+                "#FFB2B2"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Reebok Falcon Shoes for men - 2020 Edition",
+            "price": "Rs 420.99",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197755172-e244d5d9-270d-4483-8e69-e225e54759e6.png",
+            "bgGradient": [
+                "#8AA8F8",
+                "#315BFF"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Yellow Tape Mens Rte277a Sneaker",
+            "price": "Rs 253.45",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197329056-7000301b-cea9-4f9c-9327-34a21f1cabfd.png",
+            "bgGradient": [
+                "#27EC37",
+                "#CCEFBA"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Nike Unisex-Child Air Jordan 1 White",
+            "price": "Rs 442.46",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197329064-a65f5693-93c4-41e6-a55e-07b6781abf4d.png",
+            "bgGradient": [
+                "#E9EA55",
+                "#F7F7C1"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Nike Orange Air Jordan ",
+            "price": "Rs 202.37",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197327633-a29adf55-e991-49e3-8086-54c0405715f2.png",
+            "bgGradient": [
+                "#018F92",
+                "#C7C5C5"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Puma x Helly Hansen RS Connect Sneakers",
+            "price": "Rs 300.46",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197327641-5b5d82ca-1026-4579-87a0-7ba88e07baeb.png",
+            "bgGradient": [
+                "#9F2AFF",
+                "#B59DF1"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Adidas Stan Smith",
+            "price": "Rs 101.13",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197327644-9b114302-9c97-4ad2-b207-94e3eac6ef31.png",
+            "bgGradient": [
+                "#2BFF5C",
+                "#B2D0A5"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Puma x Ader Error Vaderon Sneakers",
+            "price": "Rs 159.15",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197327643-09da0c09-815e-4aaf-a1f8-dd2df351e814.png",
+            "bgGradient": [
+                "#F6FD14",
+                "#D9E2A5"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Adidas Yeezy Boost 350 V2",
+            "price": "Rs 175.73",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197327642-1e638d26-b97a-40a5-8277-87edf82e81dd.png",
+            "bgGradient": [
+                "#E63A3A",
+                "#FFBABA"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Reebok Classic Leather Green",
+            "price": "Rs 178.89",
+            "imgSrc": "https://user-images.githubusercontent.com/87645745/197327646-dbf8bdba-5b7c-45ea-a9f0-0b3dcf2e9ad7.png",
+            "bgGradient": [
+                "#55B7D8",
+                "#B0D8D5"
+            ]
+        }
+    ]
+}
